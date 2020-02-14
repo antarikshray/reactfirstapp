@@ -82,13 +82,11 @@ function App() {
       </div>
       <section id='ircnews'>
       <ScrollAnimation animateIn="fadeIn" animateOut="fadeOut">
-        <div className="row">
-          <div className="col-md-4">
+        <div className="row" style={{marginLeft: '35%'}}>
             <a style={{color: "#ffffff", fontSize: '50px', margin: '20px', textShadow:'2px 2px 4px #000000'}}>Indian Rover Challenge</a>
-          </div>
-          <div className="col-md-4">
-              <img src={ircprize} height="400px" width='600px' style={{borderRadius: '15px', boxShadow: '10px 10px #141414'}}></img>
-          </div>
+        </div>    
+        <div className="row" style={{marginLeft: '35%'}}>
+            <img src={ircprize} height="400px" width='600px' style={{borderRadius: '15px', boxShadow: '10px 10px #141414'}}></img>
         </div>
       </ScrollAnimation>
       <br></br>
