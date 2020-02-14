@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/reactfirstapp/static/css/main.d1b05096.chunk.css",
-    "main.js": "/reactfirstapp/static/js/main.87ed2e93.chunk.js",
-    "main.js.map": "/reactfirstapp/static/js/main.87ed2e93.chunk.js.map",
+    "main.css": "/reactfirstapp/static/css/main.b5c3bcd9.chunk.css",
+    "main.js": "/reactfirstapp/static/js/main.e65f3e60.chunk.js",
+    "main.js.map": "/reactfirstapp/static/js/main.e65f3e60.chunk.js.map",
     "runtime-main.js": "/reactfirstapp/static/js/runtime-main.8ebef52c.js",
     "runtime-main.js.map": "/reactfirstapp/static/js/runtime-main.8ebef52c.js.map",
-    "static/css/2.47e06e2e.chunk.css": "/reactfirstapp/static/css/2.47e06e2e.chunk.css",
-    "static/js/2.254624f8.chunk.js": "/reactfirstapp/static/js/2.254624f8.chunk.js",
-    "static/js/2.254624f8.chunk.js.map": "/reactfirstapp/static/js/2.254624f8.chunk.js.map",
+    "static/css/2.737e57e0.chunk.css": "/reactfirstapp/static/css/2.737e57e0.chunk.css",
+    "static/js/2.4b749373.chunk.js": "/reactfirstapp/static/js/2.4b749373.chunk.js",
+    "static/js/2.4b749373.chunk.js.map": "/reactfirstapp/static/js/2.4b749373.chunk.js.map",
     "index.html": "/reactfirstapp/index.html",
-    "precache-manifest.eb26c774a9d9ffe05d98caa427e6f85f.js": "/reactfirstapp/precache-manifest.eb26c774a9d9ffe05d98caa427e6f85f.js",
+    "precache-manifest.248095a3720a64a156bf3453fc1fea73.js": "/reactfirstapp/precache-manifest.248095a3720a64a156bf3453fc1fea73.js",
     "service-worker.js": "/reactfirstapp/service-worker.js",
-    "static/css/2.47e06e2e.chunk.css.map": "/reactfirstapp/static/css/2.47e06e2e.chunk.css.map",
-    "static/css/main.d1b05096.chunk.css.map": "/reactfirstapp/static/css/main.d1b05096.chunk.css.map",
-    "static/js/2.254624f8.chunk.js.LICENSE.txt": "/reactfirstapp/static/js/2.254624f8.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/reactfirstapp/static/media/logo.5d5d9eef.svg"
+    "static/css/2.737e57e0.chunk.css.map": "/reactfirstapp/static/css/2.737e57e0.chunk.css.map",
+    "static/css/main.b5c3bcd9.chunk.css.map": "/reactfirstapp/static/css/main.b5c3bcd9.chunk.css.map",
+    "static/js/2.4b749373.chunk.js.LICENSE.txt": "/reactfirstapp/static/js/2.4b749373.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/reactfirstapp/static/media/nordique-Light.47b77ee1.otf"
   },
   "entrypoints": [
     "static/js/runtime-main.8ebef52c.js",
-    "static/css/2.47e06e2e.chunk.css",
-    "static/js/2.254624f8.chunk.js",
-    "static/css/main.d1b05096.chunk.css",
-    "static/js/main.87ed2e93.chunk.js"
+    "static/css/2.737e57e0.chunk.css",
+    "static/js/2.4b749373.chunk.js",
+    "static/css/main.b5c3bcd9.chunk.css",
+    "static/js/main.e65f3e60.chunk.js"
   ]
 }
